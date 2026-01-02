@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C552DB-5EEB-461C-A007-86A7ED239434}|LAB706\\LAB706.vcxproj|D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB706\\LAB706.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1C552DB-5EEB-461C-A007-86A7ED239434}|LAB706\\LAB706.vcxproj|solutionrelative:LAB706\\LAB706.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E15B5C-F1A1-4669-AFE0-F1486F1234A1}|LAB705\\LAB705.vcxproj|D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB705\\LAB705.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47E15B5C-F1A1-4669-AFE0-F1486F1234A1}|LAB705\\LAB705.vcxproj|solutionrelative:LAB705\\LAB705.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D902C76-D135-443D-A2AA-072BDCDC5CC2}|LAB704\\LAB704.vcxproj|D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB704\\LAB704.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D902C76-D135-443D-A2AA-072BDCDC5CC2}|LAB704\\LAB704.vcxproj|solutionrelative:LAB704\\LAB704.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DAD0E8-6B1F-469B-9BF8-1FD157371633}|LAB703\\LAB703.vcxproj|D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB703\\LAB703.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10DAD0E8-6B1F-469B-9BF8-1FD157371633}|LAB703\\LAB703.vcxproj|solutionrelative:LAB703\\LAB703.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF8B7FA-96BE-439F-8A61-A543AF5DFE15}|LAB702\\LAB702.vcxproj|D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB702\\LAB702.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9FF8B7FA-96BE-439F-8A61-A543AF5DFE15}|LAB702\\LAB702.vcxproj|solutionrelative:LAB702\\LAB702.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E661F-EBC2-4A1F-A65A-15C73A07A1DF}|LAB701\\LAB701.vcxproj|D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB701\\LAB701.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E3E661F-EBC2-4A1F-A65A-15C73A07A1DF}|LAB701\\LAB701.vcxproj|solutionrelative:LAB701\\LAB701.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB703.cpp",
+              "DocumentMoniker": "D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB703\\LAB703.cpp",
+              "RelativeDocumentMoniker": "LAB703\\LAB703.cpp",
+              "ToolTip": "D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB703\\LAB703.cpp",
+              "RelativeToolTip": "LAB703\\LAB703.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T08:28:19.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB706.cpp",
+              "DocumentMoniker": "D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB706\\LAB706.cpp",
+              "RelativeDocumentMoniker": "LAB706\\LAB706.cpp",
+              "ToolTip": "D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB706\\LAB706.cpp",
+              "RelativeToolTip": "LAB706\\LAB706.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T08:45:40.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB705.cpp",
+              "DocumentMoniker": "D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB705\\LAB705.cpp",
+              "RelativeDocumentMoniker": "LAB705\\LAB705.cpp",
+              "ToolTip": "D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB705\\LAB705.cpp",
+              "RelativeToolTip": "LAB705\\LAB705.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T08:40:30.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB704.cpp",
+              "DocumentMoniker": "D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB704\\LAB704.cpp",
+              "RelativeDocumentMoniker": "LAB704\\LAB704.cpp",
+              "ToolTip": "D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB704\\LAB704.cpp",
+              "RelativeToolTip": "LAB704\\LAB704.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T08:34:22.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LAB702.cpp",
+              "DocumentMoniker": "D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB702\\LAB702.cpp",
+              "RelativeDocumentMoniker": "LAB702\\LAB702.cpp",
+              "ToolTip": "D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB702\\LAB702.cpp",
+              "RelativeToolTip": "LAB702\\LAB702.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T08:21:42.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LAB701.cpp",
+              "DocumentMoniker": "D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB701\\LAB701.cpp",
+              "RelativeDocumentMoniker": "LAB701\\LAB701.cpp",
+              "ToolTip": "D:\\MIIA0106-68-B-Phyton-and-C\\LAB7\\LAB701\\LAB701\\LAB701.cpp",
+              "RelativeToolTip": "LAB701\\LAB701.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T08:10:32.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
